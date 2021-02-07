@@ -1,4 +1,4 @@
-# Machine-Learning-Pipeliines
+# Machine-Learning-Pipelines
 Demo on how to build Robust ML pipelines
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
